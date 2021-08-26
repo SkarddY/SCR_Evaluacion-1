@@ -1,0 +1,10 @@
+if(compramos gato = true) NombreGato = console.writeline("Diego Argato Maradona");
+
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+void CollisionEnter3D Collision()
+{
+	if(collision.compareTag = "Agua"){
+	ahogarse = true;
+	}
+}
