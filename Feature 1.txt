@@ -1,1 +1,6 @@
 Life = 100; if (me pegan muy duro = true) Life = 100 - 50;
+
+void SFX()
+{
+	Audio.Sound.Play();
+}
